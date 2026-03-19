@@ -1,4 +1,4 @@
-# 👗 AI-Based Personal Styling & Fashion Trend Analysis System
+#  AI-Based Personal Styling & Fashion Trend Analysis System
 
 This project is a machine learning-based fashion recommendation system that suggests personalized outfits based on user characteristics such as body type, skin tone, and occasion.
 
@@ -41,19 +41,23 @@ Developed an AI-based system that:
 ```bash
 pip install pandas numpy matplotlib scikit-learn
 python main.py
+```
 
-📊 Output
+---
 
-Recommended outfits displayed in terminal
-Trend visualization charts generated
-User session stored in database
+## 📊 Output  
+- Recommended outfits displayed in terminal  
+- Trend visualization charts generated  
+- User session stored in database  
 
-📌 Future Improvements
+---
 
-Add UI (web/app interface)
-Improve recommendation accuracy
-Integrate real-time fashion trend data
+## 📌 Future Improvements  
+- Add UI (web/app interface)  
+- Improve recommendation accuracy  
+- Integrate real-time fashion trend data  
 
+---
 
-👩‍💻 Author
-Charvi Arora
+## 👩‍💻 Author  
+**Charvi Arora**
